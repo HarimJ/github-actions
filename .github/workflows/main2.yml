@@ -15,5 +15,5 @@ jobs:
     - name: Run ls -l
       run: ls -l
 
-  - name: Run ls -al
-    run: ls -al
+    - name: Run ls -al
+      run: ls -al
